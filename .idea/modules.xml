@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mockito.iml" filepath="$PROJECT_DIR$/.idea/modules/Mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mockito_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mockito_main.iml" group="Mockito" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mockito_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mockito_test.iml" group="Mockito" />
+    </modules>
+  </component>
+</project>
